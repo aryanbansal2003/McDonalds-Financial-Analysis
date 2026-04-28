@@ -83,6 +83,9 @@ To enhance the financial analysis, key ratios were incorporated to evaluate prof
 
 ---
 <img width="1310" height="737" alt="Screenshot 2026-04-28 184032" src="https://github.com/user-attachments/assets/a3d8644d-992d-48db-8851-ebaae32a5f9a" />
+<img width="1312" height="740" alt="Screenshot 2026-04-28 190102" src="https://github.com/user-attachments/assets/e853af8a-2b06-4cc9-9c95-cac5776eaf72" />
+<img width="1309" height="736" alt="Screenshot 2026-04-28 190153" src="https://github.com/user-attachments/assets/a4b41d4c-97a6-49f3-bceb-1d89d6ea9420" />
+<img width="1307" height="729" alt="Screenshot 2026-04-28 190250" src="https://github.com/user-attachments/assets/ca9bcf41-9b12-4cb9-8257-8f810928ec72" />
 
 🔹 Business Recommendations
 Improve cost management during low-margin periods
