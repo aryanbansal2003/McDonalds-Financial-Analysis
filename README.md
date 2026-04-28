@@ -84,19 +84,21 @@ Improve cost management during low-margin periods
 Focus on sustaining high-revenue segments
 Monitor expense trends to maintain profitability
 Use financial insights for strategic planning and forecasting
+
 🔹 How to Use
 Download the .pbix file from this repository
 Open it using Microsoft Power BI Desktop
 Explore the interactive dashboards and insights
+
 🔹 Future Enhancements
 Inclusion of financial ratios (ROE, Net Profit Margin, etc.)
 Forecasting using time-series analysis
 Comparison with competitors
+
 🔹 Author
 
 Aryan Bansal
 PGDM (Finance & Business Analytics)
 
 🔹 Disclaimer
-
 This project is for educational and analytical purposes only. The data used may be sourced from publicly available datasets.
