@@ -1,4 +1,5 @@
 📊 Financial Statement Analysis of McDonald’s
+
 🔹 Project Overview
 
 This project focuses on analyzing the financial performance of McDonald’s using interactive dashboards built in Power BI. The analysis is based on historical financial statement data and aims to derive actionable business insights regarding revenue trends, profitability, and overall financial health.
@@ -8,10 +9,12 @@ To evaluate McDonald’s financial performance over time
 To analyze key financial metrics such as revenue, profit, and expenses
 To identify trends and patterns in financial data
 To support strategic decision-making using data-driven insights
+
 🔹 Tools & Technologies
 Microsoft Power BI
 Data Source: CSV (Financial Statements)
 Data Visualization & Dashboarding
+
 🔹 Dataset Description
 File Name: McDonalds_Financial_Statements.csv
 The dataset includes key financial variables such as:
@@ -19,17 +22,19 @@ Revenue
 Operating Costs
 Net Profit
 Year-wise financial data
+
 🔹 Key Insights
 McDonald’s shows consistent revenue growth over the observed period
 Profit margins fluctuate, indicating changes in cost structure
 Certain periods reflect increased operational expenses impacting net profit
 Financial trends highlight opportunities for cost optimization
+
 🔹 Dashboard Features
-📈 Revenue & Profit Trend Analysis
-📊 KPI Indicators for Financial Performance
-🔍 Interactive Filters for dynamic exploration
-📉 Comparative Analysis across time periods
-🔹 Dashboard Preview
+1. Revenue & Profit Trend Analysis
+2. KPI Indicators for Financial Performance
+3. Interactive Filters for dynamic exploration
+4. Comparative Analysis across time periods
+5. Dashboard Preview
 
 **Financial Ratios & Metrics**
 To enhance the financial analysis, key ratios were incorporated to evaluate profitability, efficiency, and overall financial health:
