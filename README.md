@@ -77,7 +77,9 @@ To enhance the financial analysis, key ratios were incorporated to evaluate prof
 * Efficiency ratios reveal scope for better asset utilization
 
 ---
-
+<img width="1310" height="737" alt="Screenshot 2026-04-28 184032" src="https://github.com/user-attachments/assets/a3d8644d-992d-48db-8851-ebaae32a5f9a" />
+<img width="1313" height="185" alt="Screenshot 2026-04-28 184043" src="https://github.com/user-attachments/assets/89ba880b-d0af-4079-9dab-e71a42a62237" />
+<img width="256" height="732" alt="Screenshot 2026-04-28 184048" src="https://github.com/user-attachments/assets/cd71b0fa-3112-4d15-964d-a5dfc39deb40" />
 <img width="1038" height="551" alt="Screenshot 2026-04-28 184053" src="https://github.com/user-attachments/assets/2553f388-f33b-4054-ad74-35cc7e21fd46" />
 
 
