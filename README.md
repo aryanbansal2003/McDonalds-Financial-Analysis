@@ -100,5 +100,6 @@ Comparison with competitors
 Aryan Bansal
 PGDM (Finance & Business Analytics)
 
-🔹 Disclaimer
+🔹 Disclaimer:
+
 This project is for educational and analytical purposes only. The data used may be sourced from publicly available datasets.
